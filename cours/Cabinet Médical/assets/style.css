@@ -1,0 +1,58 @@
+body{
+   background-color: grey; 
+   color: white;
+}
+div> a{
+    color: white;
+    text-decoration: none;
+}
+/*=============Accueil============*/
+div > img{
+    width:500px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.link{
+    text-align: center;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+h1,h2{
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+
+
+
+/*===============Horaires=============*/
+table{
+    border:2px solid white;
+    
+}
+.table{
+    border-collapse: collapse;
+    border:2px solid white;
+    
+}
+.centerTable{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+tr{
+    border:2px solid white;
+    text-align: center;
+}
+td{
+    border:2px solid white;
+    text-align: center;
+}
+th{
+    border:2px solid white;
+    text-align: center;
+}
